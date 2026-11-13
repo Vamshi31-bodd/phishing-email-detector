@@ -1,0 +1,11 @@
+
+venv/
+__pycache__/
+*.pyc
+
+# Dataset
+dataset/emails.csv
+
+# Trained models
+models/*.pkl
+models/*.joblib
